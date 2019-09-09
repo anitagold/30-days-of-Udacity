@@ -7,3 +7,9 @@
 3. Deep Learning Nanodegree - Section 1: Introduction to Deep Learning - Lesson 1-2 finished
 4. In Career Portal career profile updated 
 5. Deep Learning Nanodegree - Section 1: Introduction to Deep Learning - Lesson 3-4 finished
+
+### Day 2: 2019. 09. 09.
+
+1. Deep Learning Nanodegree - Section 1: Introduction to Deep Learning - Lesson 5 finished
+2. Deep Learning Nanodegree - Section 1: Introduction to Deep Learning - Lesson 6 started
+
