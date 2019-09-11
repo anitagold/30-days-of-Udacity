@@ -13,3 +13,8 @@
 1. Deep Learning Nanodegree - Section 1: Introduction to Deep Learning - Lesson 5 finished
 2. Deep Learning Nanodegree - Section 1: Introduction to Deep Learning - Lesson 6 started
 
+### Day 3: 2019. 09. 10.
+
+1. Deep Learning Nanodegree - Section 1: Introduction to Deep Learning - Lesson 6 finished.
+@Archit, @MD BAPPI P., congrats and keep up the good work!
+
