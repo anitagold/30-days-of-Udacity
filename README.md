@@ -1,4 +1,11 @@
 # 30-days-of-Udacity
+## What is the #30DaysofUdacity challenge?
+The premise of this challenge is to build a habit of practicing new skills by making a public commitment of practicing the topic of your program every day for 30 days. 
+## Why? 
+Because habits that emphasize consistent practice have been proven to help overall retention of new learning material. 
+
+
+## Daily logs
 
 ### Day 1: 2019. 09. 08.
 
@@ -17,4 +24,9 @@
 
 1. Deep Learning Nanodegree - Section 1: Introduction to Deep Learning - Lesson 6 finished.
 @Archit, @MD BAPPI P., congrats and keep up the good work!
+
+### Day 4: 2019. 09. 11.
+
+1. Deep Learning Nanodegree - Section 1: Introduction to Deep Learning - Lesson 7 - Concepts 1-7 finished.
+
 
