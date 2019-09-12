@@ -29,4 +29,7 @@ Because habits that emphasize consistent practice have been proven to help overa
 
 1. Deep Learning Nanodegree - Section 1: Introduction to Deep Learning - Lesson 7 - Concepts 1-7 finished.
 
+### Day 5: 2019. 09. 12.
+
+1. Deep Learning Nanodegree - Section 1: Introduction to Deep Learning - Lesson 7 finished.
 
