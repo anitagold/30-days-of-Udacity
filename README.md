@@ -37,3 +37,9 @@ Because habits that emphasize consistent practice have been proven to help overa
 
 1. Deep Learning Nanodegree - Section 1: Introduction to Deep Learning - Lesson 8 - Concepts 1-8 finished.
 
+### Day 7: 2019. 09. 14.
+
+1. Since I want strong base I revised Deep Learning Nanodegree - Section 1: Introduction to Deep Learning - Lesson 8 - Concepts 1-8., tried every code sample and have read all the referenced documentation
+2. Deep Learning Nanodegree - Section 1: Introduction to Deep Learning - Lesson 8 finished.
+3. I've seen a 3Blue1Brown video about Visualizing high-dimensional spheres: https://www.youtube.com/watch?v=zwAD6dRSVyI 
+
