@@ -43,3 +43,6 @@ Because habits that emphasize consistent practice have been proven to help overa
 2. Deep Learning Nanodegree - Section 1: Introduction to Deep Learning - Lesson 8 finished.
 3. I've seen a 3Blue1Brown video about Visualizing high-dimensional spheres: https://www.youtube.com/watch?v=zwAD6dRSVyI 
 
+### Day 8: 2019. 09. 15.
+
+1. Section 2: Neural Networks - Lesson 1: Introduction to Neural Networks - Concepts 1-14 finished.
