@@ -51,3 +51,8 @@ Because habits that emphasize consistent practice have been proven to help overa
 
 1. Section 2: Neural Networks - Lesson 1: Introduction to Neural Networks - Concepts 15-26 finished.
 @MarwaF , @Archit and @OlgaT keep up the good work!
+
+### Day 10: 2019. 09. 17.
+
+1. Section 2: Neural Networks - Lesson 1: Introduction to Neural Networks finished.
+
