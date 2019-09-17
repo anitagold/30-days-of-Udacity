@@ -46,3 +46,8 @@ Because habits that emphasize consistent practice have been proven to help overa
 ### Day 8: 2019. 09. 15.
 
 1. Section 2: Neural Networks - Lesson 1: Introduction to Neural Networks - Concepts 1-14 finished.
+
+### Day 9: 2019. 09. 16.
+
+1. Section 2: Neural Networks - Lesson 1: Introduction to Neural Networks - Concepts 15-26 finished.
+@MarwaF , @Archit and @OlgaT keep up the good work!
