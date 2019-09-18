@@ -56,3 +56,9 @@ Because habits that emphasize consistent practice have been proven to help overa
 
 1. Section 2: Neural Networks - Lesson 1: Introduction to Neural Networks finished.
 
+### Day 11: 2019. 09. 18.
+
+1. Started to work in Project 1. - Predicting Bike-sharing patterns
+2. Section 2: Neural Networks - Lesson 2: Implementing Gradient Descent - Concepts 1-4 finished.
+3. Practised 20 finished courses in Datacamp (partly ML and DL) 
+4. Booked an appointment with my mentor
