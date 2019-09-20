@@ -67,3 +67,7 @@ Because habits that emphasize consistent practice have been proven to help overa
 
 1. Worked in Project 1. - Predicting Bike-sharing patterns
 2. Section 2: Neural Networks - Lesson 2: Implementing Gradient Descent finished. 
+
+### Day 13: 2019. 09. 20.
+
+1. Section 2: Neural Networks - Lesson 3: Training Neural Networks finished. 
