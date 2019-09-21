@@ -72,7 +72,9 @@ Because habits that emphasize consistent practice have been proven to help overa
 
 1. Section 2: Neural Networks - Lesson 3: Training Neural Networks finished. 
 
-### Day 14: 2019. 09. 21. Deep Learning ND
+### Day 14: 2019. 09. 21. 
+
+#### Deep Learning ND
 
 1. Section 2: Neural Networks - Lesson 4: GPU Workspaces Demo finished.
 2. Worked in the first project - Predicting Bike-sharing patterns 
