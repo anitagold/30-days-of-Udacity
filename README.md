@@ -84,3 +84,9 @@ Because habits that emphasize consistent practice have been proven to help overa
 #### Deep Learning ND:
 
 1. Worked in the first project - Predicting Bike-sharing patterns 
+
+### Day 16: 2019. 09. 23. 
+
+#### Deep Learning ND:
+
+1. Worked in the first project - Predicting Bike-sharing patterns 
