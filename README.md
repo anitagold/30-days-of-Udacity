@@ -90,3 +90,23 @@ Because habits that emphasize consistent practice have been proven to help overa
 #### Deep Learning ND:
 
 1. Worked in the first project - Predicting Bike-sharing patterns 
+
+### Day 17: 2019. 09. 24. 
+
+#### Deep Learning ND:
+
+1. Finished and submitted the first project - Predicting Bike-sharing patterns 
+
+### Day 18: 2019. 09. 25. 
+
+#### Deep Learning ND:
+
+1. I received the review of the first project. It was accepted.
+2. Section 2: Neural Networks - Lesson 6: Sentiment Analysis - Concepts 1-12 finished.
+
+#### Computer Vision ND:
+
+1. I've set a study plan and I have written an introductory letter to my mentor.
+2. Section 1: Introduction to Computer Vision - Lesson 1: Welcome to Computer Vision finished.
+3. Section 1: Introduction to Computer Vision - Lesson 2: Welcome to Udacity finished.
+
