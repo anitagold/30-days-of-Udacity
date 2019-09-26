@@ -110,3 +110,14 @@ Because habits that emphasize consistent practice have been proven to help overa
 2. Section 1: Introduction to Computer Vision - Lesson 1: Welcome to Computer Vision finished.
 3. Section 1: Introduction to Computer Vision - Lesson 2: Welcome to Udacity finished.
 
+### Day 19: 2019. 09. 26. 
+
+#### Deep Learning ND:
+
+1. Section 2: Neural Networks - Lesson 6: Sentiment Analysis - Concepts 13-21 finished.
+
+#### Computer Vision ND:
+
+1. Section 1: Introduction to Computer Vision - Lesson 3: Get Help With Your Account finished.
+2. Section 1: Introduction to Computer Vision - Lesson 4: Image Representation & Classification Concepts 1-11 finished.
+Encouraging @HelenaB , @Imroze , @ZsoltB !
