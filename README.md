@@ -121,3 +121,14 @@ Because habits that emphasize consistent practice have been proven to help overa
 1. Section 1: Introduction to Computer Vision - Lesson 3: Get Help With Your Account finished.
 2. Section 1: Introduction to Computer Vision - Lesson 4: Image Representation & Classification Concepts 1-11 finished.
 Encouraging @HelenaB , @Imroze , @ZsoltB !
+
+### Day 20: 2019. 09. 27. 
+
+#### Deep Learning ND:
+
+1. Section 2: Neural Networks - Lesson 6: Sentiment Analysis finished.
+2. Section 2: Neural Networks - Lesson 7: Deep Learning with PyTorch Concepts 1-3 finished.
+
+#### Computer Vision ND:
+
+1. Section 1: Introduction to Computer Vision - Lesson 4: Image Representation & Classification Concepts 11-15 finished.
