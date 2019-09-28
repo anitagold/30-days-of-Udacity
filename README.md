@@ -132,3 +132,9 @@ Encouraging @HelenaB , @Imroze , @ZsoltB !
 #### Computer Vision ND:
 
 1. Section 1: Introduction to Computer Vision - Lesson 4: Image Representation & Classification Concepts 11-15 finished.
+
+### Day 21: 2019. 09. 28. 
+
+#### Deep Learning ND:
+
+1. Started to work on project 2.: Dog-Breed Classifier
