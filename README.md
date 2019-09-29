@@ -138,3 +138,9 @@ Encouraging @HelenaB , @Imroze , @ZsoltB !
 #### Deep Learning ND:
 
 1. Started to work on project 2.: Dog-Breed Classifier
+
+### Day 22: 2019. 09. 29. 
+
+#### Deep Learning ND:
+
+1. Worked on project 2.: Dog-Breed Classifier
