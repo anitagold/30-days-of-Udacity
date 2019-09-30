@@ -144,3 +144,13 @@ Encouraging @HelenaB , @Imroze , @ZsoltB !
 #### Deep Learning ND:
 
 1. Worked on project 2.: Dog-Breed Classifier
+
+### Day 23: 09/30/2019.
+
+#### Deep Learning ND:
+
+1. Section 2: Neural Networks - Lesson 7: Deep Learning with PyTorch Concepts 3-10 finished.
+
+#### Computer Vision ND:
+
+1. Section 1: Introduction to Computer Vision - Lesson 4: Image Representation & Classification Concepts 15-21 finished.
