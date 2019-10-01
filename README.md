@@ -154,3 +154,18 @@ Encouraging @HelenaB , @Imroze , @ZsoltB !
 #### Computer Vision ND:
 
 1. Section 1: Introduction to Computer Vision - Lesson 4: Image Representation & Classification Concepts 15-21 finished.
+
+### Day 24: 10/01/2019.
+
+#### Deep Learning ND:
+
+1. Section 2: Neural Networks - Lesson 7: Deep Learning with PyTorch Concepts 11-20 finished.
+2. I watched a podcast clip with Lex Fridman and Jeremy Howard: https://www.youtube.com/watch?v=Bi7f1JSSlh8&list=PLrAXtmErZgOeciFP3CBCIEElOJeitOr41 This is just a short clip, I plan to watch the full episode, because it was very interesting!
+3. This podcast was about active learning (in machine learning), so I searched what it is, and I've read the concept here: https://en.wikipedia.org/wiki/Active_learning_(machine_learning)
+
+#### Computer Vision ND:
+
+1. Section 1: Introduction to Computer Vision - Lesson 4: Image Representation & Classification finished.
+2. I've learned more about HSL and HSV color model from Wikipedia: https://en.wikipedia.org/wiki/HSL_and_HSV
+
+Encouragement: Good job, @labibaR and @Mohamed ChoukriB ! Keep up the good work! Great to see you here, @LauraT , @HelenaB , @Juan CarlosK , @OlgaT , @Imroze , @ZsoltB , @FridaR and @Jacqueline SusanM ! 
