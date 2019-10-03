@@ -169,3 +169,17 @@ Encouraging @HelenaB , @Imroze , @ZsoltB !
 2. I've learned more about HSL and HSV color model from Wikipedia: https://en.wikipedia.org/wiki/HSL_and_HSV
 
 Encouragement: Good job, @labibaR and @Mohamed ChoukriB ! Keep up the good work! Great to see you here, @LauraT , @HelenaB , @Juan CarlosK , @OlgaT , @Imroze , @ZsoltB , @FridaR and @Jacqueline SusanM ! 
+
+### Day 25: 10/02/2019.
+
+#### Deep Learning ND:
+
+1. Section 2: Neural Networks - Lesson 7: Deep Learning with PyTorch finished.
+2. I watched the first 40 minutes from this video with Lex Fridman and Jeremy Howard: https://www.youtube.com/watch?v=J6XcP4JOHmk 
+3. Section 3: Convolutional Neural Networks - Lesson 1: Convolutional Neural Networks - Concepts 1-2 finished
+
+#### Computer Vision ND:
+
+1. Section 1: Introduction to Computer Vision - Lesson 5: Convolutional Filters and Edge Detection - Concepts 1-14 finished.
+2. I've learned more about Fourier Transformations from Wikipedia: https://en.wikipedia.org/wiki/Fourier_transform
+3. Revised the suggested Fourier Transformation in OpenCV: https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_imgproc/py_transforms/py_fourier_transform/py_fourier_transform.html
