@@ -183,3 +183,13 @@ Encouragement: Good job, @labibaR and @Mohamed ChoukriB ! Keep up the good work!
 1. Section 1: Introduction to Computer Vision - Lesson 5: Convolutional Filters and Edge Detection - Concepts 1-14 finished.
 2. I've learned more about Fourier Transformations from Wikipedia: https://en.wikipedia.org/wiki/Fourier_transform
 3. Revised the suggested Fourier Transformation in OpenCV: https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_imgproc/py_transforms/py_fourier_transform/py_fourier_transform.html
+
+### Day 26: 10/03/2019.
+
+#### Deep Learning ND:
+
+1. Section 3: Convolutional Neural Networks - Lesson 1: Convolutional Neural Networks - Concepts 3-18 finished
+
+#### Computer Vision ND:
+
+1. Section 1: Introduction to Computer Vision - Lesson 5: Convolutional Filters and Edge Detection finished.
