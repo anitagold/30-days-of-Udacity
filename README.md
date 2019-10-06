@@ -213,3 +213,15 @@ Encouragement: Good job, @labibaR and @Mohamed ChoukriB ! Keep up the good work!
 #### Computer Vision ND:
 
 1. Section 1: Introduction to Computer Vision - Lesson 6: Types of Features & Image Segmentation finished.
+
+### Day 29: 10/06/2019.
+
+#### Deep Learning ND:
+
+1. Section 3: Convolutional Neural Networks - Lesson 1: Convolutional Neural Networks - Concepts 33-39 finished
+
+#### Computer Vision ND:
+
+1. Started to work on Project 1: Facial Keypoint Detection
+2. Section 1: Introduction to Computer Vision - Lesson 7: Feature Vectors finished.
+3. Section 1: Introduction to Computer Vision - Lesson 8: CNN Layers and Features Visualization Concepts 1-3 finished.
