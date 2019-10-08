@@ -225,3 +225,16 @@ Encouragement: Good job, @labibaR and @Mohamed ChoukriB ! Keep up the good work!
 1. Started to work on Project 1: Facial Keypoint Detection
 2. Section 1: Introduction to Computer Vision - Lesson 7: Feature Vectors finished.
 3. Section 1: Introduction to Computer Vision - Lesson 8: CNN Layers and Features Visualization Concepts 1-3 finished.
+
+### Day off: 10/07/2019.
+
+### Day 30: 10/08/2019.
+
+#### Deep Learning ND:
+
+1. Section 3: Convolutional Neural Networks - Lesson 1: Convolutional Neural Networks finished.
+
+#### Computer Vision ND:
+
+1. Continued to work on Project 1: Facial Keypoint Detection
+3. Section 1: Introduction to Computer Vision - Lesson 8: CNN Layers and Features Visualization Concepts 3-16 finished.
