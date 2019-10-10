@@ -245,3 +245,14 @@ Encouragement: Good job, @labibaR and @Mohamed ChoukriB ! Keep up the good work!
 
 1. Section 1: Introduction to Computer Vision - Lesson 8: CNN Layers and Features Visualization finished.
 2. Worked on the project 1
+
+### Day 32: 10/10/2019.
+
+#### Deep Learning ND:
+
+1. Section 3: Convolutional Neural Networks - Lesson 2: Cloud Computing - Concepts 1-4 finished
+
+#### Computer Vision ND:
+
+1. Worked on the Project 1: Facial Keypoint Detection
+Congrats, @Imroze for submitted project 2! Great work, @HelenaB , @ZsoltB and @TemitopeO !
