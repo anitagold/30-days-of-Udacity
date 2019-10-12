@@ -263,3 +263,9 @@ Congrats, @Imroze for submitted project 2! Great work, @HelenaB , @ZsoltB and @T
 
 1. Worked on the Project 1: Facial Keypoint Detection
 
+### Day 34: 10/12/2019.
+
+#### Computer Vision ND:
+
+1. Worked on the Project 1: Facial Keypoint Detection
+2. Today encouragement goes to @Madison Annika LottieE @UrviS @ApoorvaP @Jess @ShahanaS @Jacqueline SusanM @HelenaB @EileenH @AnjuM @Yemissi K @TemitopeO @labibaR @SusanW @FridaR @SusanneB @AleksandraD @LauraT and all the wonderful women from the women_who_code channel!
