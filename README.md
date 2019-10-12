@@ -256,3 +256,10 @@ Encouragement: Good job, @labibaR and @Mohamed ChoukriB ! Keep up the good work!
 
 1. Worked on the Project 1: Facial Keypoint Detection
 Congrats, @Imroze for submitted project 2! Great work, @HelenaB , @ZsoltB and @TemitopeO !
+
+### Day 33: 10/11/2019.
+
+#### Computer Vision ND:
+
+1. Worked on the Project 1: Facial Keypoint Detection
+
