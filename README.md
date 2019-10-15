@@ -286,3 +286,14 @@ Congrats, @Imroze for submitted project 2! Great work, @HelenaB , @ZsoltB and @T
 #### Computer Vision ND:
 
 1. Worked on the Project 1: Facial Keypoint Detection
+
+### Day 37: 10/15/2019.
+
+#### Deep Learning ND:
+
+1. Section 3: Convolutional Neural Networks - Lesson 3: Transfer learning finished
+2. Read Sebastian Thrun's article about skin cancer classification: https://www.nature.com/articles/nature21056.epdf
+
+#### Computer Vision ND:
+
+1. Worked on the Project 1: Facial Keypoint Detection
