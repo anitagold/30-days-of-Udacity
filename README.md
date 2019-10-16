@@ -297,3 +297,17 @@ Congrats, @Imroze for submitted project 2! Great work, @HelenaB , @ZsoltB and @T
 #### Computer Vision ND:
 
 1. Worked on the Project 1: Facial Keypoint Detection
+
+### Day 38: 10/16/2019.
+
+#### Deep Learning ND:
+
+1. Section 3: Convolutional Neural Networks - Lesson 4: Weight inilizatoin finished
+2. I watched an interesting interview with Christian Szegedy about adversarial examples and the future of deep learning: https://www.youtube.com/watch?v=p_UXra-_ORQ
+3. I've read more about adversarial examples: https://medium.com/@ml.at.berkeley/tricking-neural-networks-create-your-own-adversarial-examples-a61eb7620fd8
+4. I have finished this ML DataCamp course: https://www.datacamp.com/courses/machine-learning-with-tree-based-models-in-python
+5. This was the last course, so I have completed the Data Scientist with Python track on DataCamp.
+
+#### Computer Vision ND:
+
+1. Worked on the Project 1: Facial Keypoint Detection
