@@ -311,3 +311,9 @@ Congrats, @Imroze for submitted project 2! Great work, @HelenaB , @ZsoltB and @T
 #### Computer Vision ND:
 
 1. Worked on the Project 1: Facial Keypoint Detection
+
+### Day 39: 10/17/2019.
+
+#### Deep Learning ND:
+
+1. Section 3: Convolutional Neural Networks - Lesson 5: Autoencoders Concepts 1-9 finished
