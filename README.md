@@ -317,3 +317,9 @@ Congrats, @Imroze for submitted project 2! Great work, @HelenaB , @ZsoltB and @T
 #### Deep Learning ND:
 
 1. Section 3: Convolutional Neural Networks - Lesson 5: Autoencoders Concepts 1-9 finished
+
+### Day 40: 10/18/2019.
+
+#### Deep Learning ND:
+
+1. Section 3: Convolutional Neural Networks - Lesson 5: Autoencoders finished
