@@ -323,3 +323,13 @@ Congrats, @Imroze for submitted project 2! Great work, @HelenaB , @ZsoltB and @T
 #### Deep Learning ND:
 
 1. Section 3: Convolutional Neural Networks - Lesson 5: Autoencoders finished
+
+### Day 41: 10/19/2019.
+
+#### Deep Learning ND:
+
+1. Section 3: Convolutional Neural Networks - Lesson 6: Style Transfer finished
+
+#### Computer Vision ND:
+
+1. Worked on the Project 1: Facial Keypoint Detection
