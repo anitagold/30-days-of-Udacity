@@ -333,3 +333,10 @@ Congrats, @Imroze for submitted project 2! Great work, @HelenaB , @ZsoltB and @T
 #### Computer Vision ND:
 
 1. Worked on the Project 1: Facial Keypoint Detection
+
+### Day 42: 10/20/2019.
+
+#### Deep Learning ND:
+
+1. Worked on the Project 2: Dog-Breed Classifier
+
