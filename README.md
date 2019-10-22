@@ -346,3 +346,13 @@ Congrats, @Imroze for submitted project 2! Great work, @HelenaB , @ZsoltB and @T
 
 1. Worked on the Project 2: Dog-Breed Classifier
 
+(I forgot to send it yesterday night.)
+Today's encouragement goes to @EvaK , @BabatundeO , @Richárd ÁdámV , @ZsoltB !
+
+### Day 44: 10/22/2019.
+
+#### Deep Learning ND:
+
+1. Section 3: Convolutional Neural Networks - Lesson 8: Deep Learning for Cancer Detections Concepts 1-15 finished
+
+Today's encouragement goes to @Paul BruceS , @KonstantinosK , @DishinG , @FlorentG !
