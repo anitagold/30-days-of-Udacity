@@ -340,3 +340,9 @@ Congrats, @Imroze for submitted project 2! Great work, @HelenaB , @ZsoltB and @T
 
 1. Worked on the Project 2: Dog-Breed Classifier
 
+### Day 43: 10/21/2019.
+
+#### Deep Learning ND:
+
+1. Worked on the Project 2: Dog-Breed Classifier
+
