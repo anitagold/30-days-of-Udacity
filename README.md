@@ -356,3 +356,10 @@ Today's encouragement goes to @EvaK , @BabatundeO , @Richárd ÁdámV , @ZsoltB 
 1. Section 3: Convolutional Neural Networks - Lesson 8: Deep Learning for Cancer Detections Concepts 1-15 finished
 
 Today's encouragement goes to @Paul BruceS , @KonstantinosK , @DishinG , @FlorentG !
+
+### Day 45: 10/23/2019.
+
+#### Computer Vision ND:
+
+1. Worked on the Project 1: Facial Keypoint Detection
+(I forgot to send the report yesterday night.)
