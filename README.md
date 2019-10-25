@@ -363,3 +363,10 @@ Today's encouragement goes to @Paul BruceS , @KonstantinosK , @DishinG , @Floren
 
 1. Worked on the Project 1: Facial Keypoint Detection
 (I forgot to send the report yesterday night.)
+
+### Day 46: 10/24/2019.
+
+#### Computer Vision ND:
+
+1. Worked on the Project 1: Facial Keypoint Detection
+2. I'd like to encourage @Jacqueline SusanM , @ZsoltB , @HelenaB , @FridaR to keep going!
