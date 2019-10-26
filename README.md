@@ -376,3 +376,9 @@ Today's encouragement goes to @Paul BruceS , @KonstantinosK , @DishinG , @Floren
 #### Computer Vision ND:
 
 1. Worked on the Project 1: Facial Keypoint Detection
+
+### Day 48: 10/26/2019.
+
+#### Deep Learning ND:
+
+1. Worked on the Project 2: Dog-Breed Classifier
