@@ -382,3 +382,18 @@ Today's encouragement goes to @Paul BruceS , @KonstantinosK , @DishinG , @Floren
 #### Deep Learning ND:
 
 1. Worked on the Project 2: Dog-Breed Classifier
+
+### Day off: 10/27/2019.
+
+### Day 49: 10/28/2019.
+
+#### Deep Learning ND:
+
+1. Worked on the Project 2: Dog-Breed Classifier
+
+#### Computer Vision ND:
+
+1. Read the Namish paper: https://arxiv.org/pdf/1710.00977.pdf
+2. Worked on the Project 1: Facial Keypoint Detection
+
+Today's encouragement goes to: @joeH , @AnkitV , @NomanA ! 
