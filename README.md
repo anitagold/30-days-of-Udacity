@@ -397,3 +397,17 @@ Today's encouragement goes to @Paul BruceS , @KonstantinosK , @DishinG , @Floren
 2. Worked on the Project 1: Facial Keypoint Detection
 
 Today's encouragement goes to: @joeH , @AnkitV , @NomanA ! 
+
+### Day 50: 10/29/2019.
+
+#### Computer Vision ND:
+
+1. Worked on the Project 1: Facial Keypoint Detection
+
+(Due to internet connection error to Student Hub, I was unable to post the yesterday's log.)  
+
+### Day 51: 10/30/2019.
+
+#### Computer Vision ND:
+
+1. Worked on the Project 1: Facial Keypoint Detection
