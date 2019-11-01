@@ -411,3 +411,9 @@ Today's encouragement goes to: @joeH , @AnkitV , @NomanA !
 #### Computer Vision ND:
 
 1. Worked on the Project 1: Facial Keypoint Detection
+
+### Day 52: 10/31/2019.
+
+#### Computer Vision ND:
+
+1. Worked on the Project 1: Facial Keypoint Detection
