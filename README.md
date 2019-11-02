@@ -417,3 +417,12 @@ Today's encouragement goes to: @joeH , @AnkitV , @NomanA !
 #### Computer Vision ND:
 
 1. Worked on the Project 1: Facial Keypoint Detection
+
+### Day 53: 11/01/2019.
+
+Today I’m practicing how to work with Cascade classifier. #PracticeMakesPerfect
+
+#### Deep Learning ND:
+
+1. I went through this tutorial: https://docs.opencv.org/trunk/db/d28/tutorial_cascade_classifier.html
+2. Worked on the Project 2: Dog-Breed Classifier
