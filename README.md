@@ -426,3 +426,14 @@ Today I’m practicing how to work with Cascade classifier. #PracticeMakesPerfec
 
 1. I went through this tutorial: https://docs.opencv.org/trunk/db/d28/tutorial_cascade_classifier.html
 2. Worked on the Project 2: Dog-Breed Classifier
+
+### Day 54: 11/02/2019.
+
+Today I’m practicing how to do classification. #PracticeMakesPerfect
+
+#### Deep Learning ND:
+
+1. Worked on the Project 2: Dog-Breed Classifier
+2. I went through the PyTorch Chatbot Tutorial and played a littlebit with the chatbot.
+Today I'd like to encourage 
+@Paul BruceS , @KonstantinosK , @DishinG , @FlorentG, @Jacqueline SusanM , @ZsoltB , @HelenaB , @FridaR !
