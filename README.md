@@ -437,3 +437,11 @@ Today I’m practicing how to do classification. #PracticeMakesPerfect
 2. I went through the PyTorch Chatbot Tutorial and played a littlebit with the chatbot.
 Today I'd like to encourage 
 @Paul BruceS , @KonstantinosK , @DishinG , @FlorentG, @Jacqueline SusanM , @ZsoltB , @HelenaB , @FridaR !
+
+### Day 55: 11/03/2019.
+
+Today I’m practicing how to do classification. #PracticeMakesPerfect
+
+#### Deep Learning ND:
+
+1. I continued to work on the Project 2: Dog-Breed Classifier
