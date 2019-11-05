@@ -449,3 +449,9 @@ Today I’m practicing how to do classification. #PracticeMakesPerfect
 ### Day 56: 11/04/2019.
 
 Worked on both project (Facial Keypoint and Dog-breed classification) in Colab. 
+
+### Day 57: 11/05/2019.
+
+#### Computer Vision ND:
+
+1. Section 3: Advanced Computer Vision & Deep Learning - Lesson 1: Advanced CNN Architectures Concepts 1-6 completed
