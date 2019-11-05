@@ -445,3 +445,7 @@ Today I’m practicing how to do classification. #PracticeMakesPerfect
 #### Deep Learning ND:
 
 1. I continued to work on the Project 2: Dog-Breed Classifier
+
+### Day 56: 11/04/2019.
+
+Worked on both project (Facial Keypoint and Dog-breed classification) in Colab. 
