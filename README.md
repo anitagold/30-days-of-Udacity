@@ -455,3 +455,13 @@ Worked on both project (Facial Keypoint and Dog-breed classification) in Colab.
 #### Computer Vision ND:
 
 1. Section 3: Advanced Computer Vision & Deep Learning - Lesson 1: Advanced CNN Architectures Concepts 1-6 completed
+
+### Day 58: 11/06/2019.
+
+#### Deep Learning ND:
+
+1. Worked on the Project 2: Dog-Breed Classifier
+
+### Day 59: 11/07/2019.
+
+Worked on both project (Facial Keypoint and Dog-breed classification) in Colab. 
