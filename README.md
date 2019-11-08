@@ -464,4 +464,13 @@ Worked on both project (Facial Keypoint and Dog-breed classification) in Colab.
 
 ### Day 59: 11/07/2019.
 
-Worked on both project (Facial Keypoint and Dog-breed classification) in Colab. 
+1. Worked on both project (Facial Keypoint and Dog-breed classification) in Colab. 
+
+### Day 60: 11/08/2019.
+
+#### Computer Vision ND:
+
+1. Section 1: Introduction to Computer Vision - Lesson 10: Jobs in Computer Vision finished.
+
+Yesterday I forgot to post my log.
+I encourage @AhmedT , @ZsoltB .
