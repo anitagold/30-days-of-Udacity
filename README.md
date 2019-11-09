@@ -474,3 +474,11 @@ Worked on both project (Facial Keypoint and Dog-breed classification) in Colab.
 
 Yesterday I forgot to post my log.
 I encourage @AhmedT , @ZsoltB .
+
+### Day 61: 11/09/2019.
+
+#### Computer Vision ND:
+
+1. I've read a post about self driving car by David Silver: https://www.linkedin.com/pulse/how-computer-vision-works-self-driving-cars-david-silver/
+2. And I have watched his TEDx Talk: https://www.youtube.com/watch?v=Ly92UcnoESMYS
+3. Section 2: Optional: Cloud Computing - Lesson 1: Cloud computing with Google Cloud Concepts 1-4 finished
