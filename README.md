@@ -482,3 +482,12 @@ I encourage @AhmedT , @ZsoltB .
 1. I've read a post about self driving car by David Silver: https://www.linkedin.com/pulse/how-computer-vision-works-self-driving-cars-david-silver/
 2. And I have watched his TEDx Talk: https://www.youtube.com/watch?v=Ly92UcnoESMYS
 3. Section 2: Optional: Cloud Computing - Lesson 1: Cloud computing with Google Cloud Concepts 1-4 finished
+
+### Day off: 11/10/2019.
+
+### Day 62: 11/11/2019.
+
+#### Deep Learning ND:
+
+1. Section 3. Convolutional Neural Networks - Lesson 9: Jobs in Deep Learning finished.
+2. Lesson 10 Project - Optimize your Github profile - Concepts 1-9 finished
