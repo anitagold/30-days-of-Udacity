@@ -491,3 +491,9 @@ I encourage @AhmedT , @ZsoltB .
 
 1. Section 3. Convolutional Neural Networks - Lesson 9: Jobs in Deep Learning finished.
 2. Lesson 10 Project - Optimize your Github profile - Concepts 1-9 finished
+
+### Day 63: 11/12/2019.
+
+#### Deep Learning ND:
+
+1. Worked on the Project 2: Dog-Breed Classifier
