@@ -497,3 +497,15 @@ I encourage @AhmedT , @ZsoltB .
 #### Deep Learning ND:
 
 1. Worked on the Project 2: Dog-Breed Classifier
+
+### Day 64: 11/13/2019.
+
+#### Deep Learning ND:
+
+1. Worked on my GitHub profile: made new repository from the first project
+2. Today I'd like to encourage @LauraT , @FuzhanR , @Paul BruceS , @Jacqueline SusanM , @ZsoltB , @HelenaB , @FridaR
+
+#### Computer Vision ND:
+1. Section 2: Optional: Cloud Computing - Lesson 1: Cloud computing with Google Cloud Concepts finished
+1. Section 2: Optional: Cloud Computing - Lesson 2: Cloud computing with AWS finished
+
