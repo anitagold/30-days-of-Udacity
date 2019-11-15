@@ -507,5 +507,16 @@ I encourage @AhmedT , @ZsoltB .
 
 #### Computer Vision ND:
 1. Section 2: Optional: Cloud Computing - Lesson 1: Cloud computing with Google Cloud Concepts finished
-1. Section 2: Optional: Cloud Computing - Lesson 2: Cloud computing with AWS finished
+2. Section 2: Optional: Cloud Computing - Lesson 2: Cloud computing with AWS finished
 
+### Day 65: 11/14/2019.
+
+#### Computer Vision ND:
+
+1. Worked on the project
+2. Lesson 10 Project - Optimize your Github profile - Concepts 9-10 finished
+3. Writing READMEs course (https://classroom.udacity.com/courses/ud777) finished
+
+#### Deep Learning ND:
+
+1. Worked on the project
